@@ -1,0 +1,3 @@
+Ola, este é o ficheiro para encriptar. 
+Adeus,
+Miguel Miragaia
